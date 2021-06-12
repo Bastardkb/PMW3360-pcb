@@ -1,0 +1,9 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"SOT-23-5_HandSoldering";1;"TLV70019_SOT23-5";;;
+2;"R3,R2,R1";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";3;"10k";;;
+3;"J2";"JST_SH_SM07B-SRSS-TB_1x07-1MP_P1.00mm_Horizontal";1;"Conn_01x07_Male";;;
+4;"C4";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"4.7uF";;;
+5;"C3";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"0.1uF";;;
+6;"C2,C1";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"1uF";;;
+7;"U4";"DIP-16_W10.16mm";1;"PMW3360DM-T2QU";;;
+8;"U3";"TSSOP-16_4.4x5mm_P0.65mm";1;"TXB0106PWR";;;

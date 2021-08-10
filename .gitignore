@@ -30,3 +30,5 @@ fp-info-cache
 # Others
 sensor-backups
 sensor-backups/*
+gerber
+gerber/*
